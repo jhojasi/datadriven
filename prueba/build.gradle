@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+}
+
+group 'com.tcs.assurance.prueba'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation  "net.serenity-bdd:serenity-junit:2.0.81"
+    implementation  "net.serenity-bdd:serenity-core:2.0.81"
+    implementation  "net.serenity-bdd:serenity-cucumber:1.9.45"
+    implementation 'net.serenity-bdd:serenity-screenplay:2.0.81'
+}

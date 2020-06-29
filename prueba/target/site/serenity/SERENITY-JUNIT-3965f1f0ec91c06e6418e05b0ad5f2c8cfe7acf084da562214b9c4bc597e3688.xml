@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="I as a user of the page" skipped="0" tests="1" time="2.86" timestamp="2020-06-16 02:00:53"><testcase name="Complete forms with personal data to register an account"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#13;
+com.tcs.assurance.prueba.stepsdefinitions.RegistryStepsDefinitions.theUserIsInHomePage(RegistryStepsDefinitions.java:43)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
